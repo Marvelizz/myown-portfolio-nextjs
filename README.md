@@ -130,5 +130,4 @@ Notes:
 - **Images not loading**: Verify paths under `public/images/...` and the `next.config.ts` if you add remote images.
 
 ### License
-This template is provided as-is for personal and commercial portfolio use. Add a license of your choice if you plan to redistribute.
-
+© 2025 Isle_Nomadic. All Rights Reserved. This design and content are provided as-is for personal viewing and commercial portfolio use. Redistribution of this template or its assets is strictly prohibited without explicit written permission.
