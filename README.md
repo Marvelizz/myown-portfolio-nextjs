@@ -2,7 +2,7 @@
 
 Portfolio built with Next.js App Router, Tailwind CSS v4, TypeScript, and GSAP ScrollTrigger animations.
 
-![next-js-portfolio-website](public/images/github-cover.png)
+https://islenomadic.vercel.app/
 
 
 ### Features
