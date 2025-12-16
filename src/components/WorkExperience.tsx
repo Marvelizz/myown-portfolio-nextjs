@@ -89,12 +89,14 @@ const WorkExperience = () => {
                     {item.description}
                   </p>
                   <div className="mt-4 flex justify-center sm:justify-start">
-                    <Link
-                      href="/images/my cv.pdf"
+                    <a
+                      href="/images/my-cv.pdf"
                       className="inline-flex items-center text-[11px] md:text-xs px-4 py-1.5 rounded-full bg-[#1a0c2e] border border-[#3e1d6d] text-white/80 hover:text-white hover:border-[#a855f7] hover:bg-[#220e3d] transition-colors"
-                    target="_blank"> Learn More
-                      
-                    </Link>
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      Learn More
+                    </a>
                   </div>
                 </div>
               </div>
