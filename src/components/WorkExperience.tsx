@@ -92,8 +92,8 @@ const WorkExperience = () => {
                     <Link
                       href="/images/my cv.pdf"
                       className="inline-flex items-center text-[11px] md:text-xs px-4 py-1.5 rounded-full bg-[#1a0c2e] border border-[#3e1d6d] text-white/80 hover:text-white hover:border-[#a855f7] hover:bg-[#220e3d] transition-colors"
-                    >
-                      Learn More
+                    target="_blank"> Learn More
+                      
                     </Link>
                   </div>
                 </div>
